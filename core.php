@@ -5,5 +5,5 @@ $alamat	= $_POST['alamat'];
 if (isset($_POST['proses'])) {
 	echo $nama.' '.$alamat;
 }
-
+echo date("Ymd");
 ?>
