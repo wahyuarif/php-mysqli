@@ -1,4 +1,4 @@
-<form>
+<form method="POST" action="core.php">
 	<table>
 		<tr>
 		<td>Nama</td>
